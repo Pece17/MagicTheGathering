@@ -28,16 +28,16 @@ Magic: The Gathering cards categorized
 ## Forest (Green)
 
 
+## Multicolor
+
+
 ## Colorless
-
-
-## Dual
 
 
 ## Basic Land
 
 
-# Land
+## Land
 
 
 ## Token
