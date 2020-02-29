@@ -28,10 +28,10 @@ Magic: The Gathering cards categorized
 ## Forest (Green)
 
 
-## Land
+## Basic Land?
 
 
-## Artifact
+## Colorless
 
 
 ## Token
