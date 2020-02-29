@@ -33,6 +33,14 @@ Magic: The Gathering cards categorized
 
 ## Colorless
 
+1. Altar of the Pantheon
+2. Altar of the Pantheon (F)
+3. Thaumaturge's Familiar x 2
+4. Traveler's Amulet x 2
+5. Shadowspear
+6. Wings of Hubris x 2
+7. Soul-Guide Lantern
+
 
 ## Basic Land
 
