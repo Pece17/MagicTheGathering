@@ -39,8 +39,8 @@ Magic: The Gathering cards categorized
 1. ```Plains``` x 31
 2. Island x 33
 3. Swamp x 30
-4. Mountain
-5. Forest
+4. Mountain x 30
+5. Forest x 30
 
 
 ## Land
