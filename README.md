@@ -10,29 +10,33 @@ Pekka Hämäläinen
 
 # Cards
 
+Magic: The Gathering cards categorized
+
+
+## Plains (White)
+
+
+## Island (Blue)
+
+
+## Swamp (Black)
+
+
+## Mountain (Red)
+
+
+## Forest (Green)
+
+
+## Land
+
+
+## Artifact
+
+
+## Token
+
 
 # Decks
 
-
-# Plains (White)
-
-
-# Island (Blue)
-
-
-# Swamp (Black)
-
-
-# Mountain (Red)
-
-
-# Forest (Green)
-
-
-# Land
-
-
-# Artifact
-
-
-# Token
+Magic: The Gathering decks
