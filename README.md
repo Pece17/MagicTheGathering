@@ -43,10 +43,19 @@ Magic: The Gathering cards categorized
 5. Forest x 30
 
 
-## Land
+## Nonbasic Land
+
+1. Field of Ruin
+2. Unkown Shores
 
 
 ## Token
+
+1. Spider
+2. Human Soldier x 5
+3. Satyr x 2
+4. Reflection x 2
+5. Wolf
 
 
 # Decks
