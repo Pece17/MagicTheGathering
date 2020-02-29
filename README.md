@@ -36,6 +36,12 @@ Magic: The Gathering cards categorized
 
 ## Basic Land
 
+1. Plains x 31
+2. Island
+3. Swamp x 30
+4. Mountain
+5. Forest
+
 
 ## Land
 
