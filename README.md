@@ -146,7 +146,7 @@ Magic: The Gathering cards categorized
 ## Forest (Green) (WIP)
 
 1. Return to Nature
-2. Loathsome Chimera
+2. Loathsome Chimera x3
 3. Lichenthrope
 4. Gift of Strength
 5. Setessan Petitioner
@@ -158,7 +158,15 @@ Magic: The Gathering cards categorized
 11. Towering Baloth
 12. Overlaid Terrain
 13. Nyxborn Colossus
-14. 
+14. Inspire Awe
+15. Setessan Skirmisher
+16. Nexus Wardens
+17. Relentless Pursuit
+18. Setessan Training
+19. Chainweb Aracnir
+20. Hyrax Tower Scout
+21. Moss Viper
+22. 
 
 
 ### Subcategories?
