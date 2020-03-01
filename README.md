@@ -16,7 +16,7 @@ Magic: The Gathering cards categorized
 ## Plains (White) (WIP)
 
 1. Triumphant Surge
-2. Rumbling Sentry
+2. Rumbling Sentry x 2
 3. Archon of Falling Stars
 4. Glory Bearers
 5. Elspeth Conquers Death
@@ -24,9 +24,22 @@ Magic: The Gathering cards categorized
 7. Shatter the Sky
 8. Taranika, Akroan Veteran
 9. Transcendent Envoy
-10. Karametra's Blessing
+10. Karametra's Blessing x 2
 11. Sentinel's Eyes
-12. 
+12. Flicker of Fate
+13. Heliod's Pilgrim x 2
+14. Daybreak Chimera
+15. Daxos, Blessed by the Sun
+16. Pious Wayfarer
+17. Captivating Unicorn
+18. Dreadful Apathy
+19. Dawn Evangel
+20. Favored of Iroas
+21. Hero of the Pride
+22. The Birth of Meletis
+23. Indomitable Will
+24. Omen of the Sun
+25. Revoke Existence
 
 
 ## Island (Blue) (WIP)
