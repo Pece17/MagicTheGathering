@@ -59,13 +59,13 @@ Magic: The Gathering cards categorized
 5. ```Forest``` x 30
 
 
-## Nonbasic Land (WIP)
+## Nonbasic Land
 
 1. ```Field of Ruin```
 2. ```Unkown Shores```
 
 
-## Token (WIP)
+## Token
 
 1. Spider
 2. Human Soldier x 5
