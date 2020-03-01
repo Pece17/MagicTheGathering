@@ -145,34 +145,34 @@ Magic: The Gathering cards categorized
 
 ## Forest (Green)
 
-1. Return to Nature x 2
-2. Loathsome Chimera x 3
-3. Lichenthrope
-4. Gift of Strength x 2
-5. Setessan Petitioner
-6. Arasta of the Endless Web (F) (P)
-7. Arasta of the Endless Web
-8. The First Iroan Games
-9. Greener Pastures
-10. Jungle Patrol
-11. Towering Baloth
-12. Overlaid Terrain
-13. Nyxborn Colossus
-14. Inspire Awe
-15. Setessan Skirmisher x 2
-16. Nexus Wardens
-17. Relentless Pursuit
-18. Setessan Training
-19. Chainweb Aracnir
-20. Hyrax Tower Scout
-21. Moss Viper x 2
-22. Warbriar Blessing
-23. Wolfwillow Haven
-24. Mystic Repeal
-25. Omen of the Hunt
-26. Voracious Typhon
-27. Skola Grovedancer
-28. Plummet
+1. ```Return to Nature``` x 2
+2. ```Loathsome Chimera``` x 3
+3. ```Lichenthrope```
+4. ```Gift of Strength``` x 2
+5. ```Setessan Petitioner```
+6. ```Arasta of the Endless Web``` (F) (P)
+7. ```Arasta of the Endless Web```
+8. ```The First Iroan Games```
+9. ```Greener Pastures```
+10. ```Jungle Patrol```
+11. ```Towering Baloth```
+12. ```Overlaid Terrain```
+13. ```Nyxborn Colossus```
+14. ```Inspire Awe```
+15. ```Setessan Skirmisher``` x 2
+16. ```Nexus Wardens```
+17. ```Relentless Pursuit```
+18. ```Setessan Training```
+19. ```Chainweb Aracnir```
+20. ```Hyrax Tower Scout```
+21. ```Moss Viper``` x 2
+22. ```Warbriar Blessing```
+23. ```Wolfwillow Haven```
+24. ```Mystic Repeal```
+25. ```Omen of the Hunt```
+26. ```Voracious Typhon```
+27. ```Skola Grovedancer```
+28. ```Plummet```
 
 
 ### Subcategories (WIP)
@@ -217,11 +217,11 @@ Magic: The Gathering cards categorized
 
 ## Token
 
-1. Spider
-2. Human Soldier x 5
-3. Satyr x 2
-4. Reflection x 2
-5. Wolf
+1. ```Spider```
+2. ```Human Soldier``` x 5
+3. ```Satyr``` x 2
+4. ```Reflection``` x 2
+5. ```Wolf```
 
 
 # Decks
