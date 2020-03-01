@@ -151,6 +151,14 @@ Magic: The Gathering cards categorized
 4. Gift of Strength
 5. Setessan Petitioner
 6. Arasta of the Endless Web (F) (P)
+7. Arasta of the Endless Web
+8. The First Iroan Games
+9. Greener Pastures
+10. Jungle Patrol
+11. Towering Baloth
+12. Overlaid Terrain
+13. Nyxborn Colossus
+14. 
 
 
 ### Subcategories?
