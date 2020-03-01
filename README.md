@@ -113,16 +113,16 @@ Magic: The Gathering cards categorized
 ## Mountain (Red) (WIP)
 
 1. Final Flare
-2. Underworld Fires
+2. Underworld Fires x 2
 3. Incendiary Oracle x 2
 4. Escape Velocity x 2
 5. Omen of the Forge x 3
 6. Satyr's Cunning x 2
 7. Thrill of Possibility x 2
 8. Heroes of the Revel x 2
-9. Aspect of Manticore
+9. Aspect of Manticore x 2
 10. Flummoxed Cyclops x 2
-11. Oread of Mountain's Blaze
+11. Oread of Mountain's Blaze x 2
 12. Impending Doom
 13. Arena Trickster
 14. Iroas's Blessing
@@ -134,7 +134,11 @@ Magic: The Gathering cards categorized
 20. Hero of the Games
 21. Portent of Betrayal
 22. Infuriate
-23. 
+23. Bulwark
+24. Fickle Efreet
+25. Orgg
+26. Amok
+27. Irreverent Revelers
 
 
 ## Forest (Green) (WIP)
