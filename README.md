@@ -80,7 +80,7 @@ Magic: The Gathering cards categorized
 29. Sibilant Spirit (A)
 
 
-## Swamp (Black) (WIP)
+## Swamp (Black)
 
 1. Lampad of Death's Vigil x 2
 2. Mire's Grasp
