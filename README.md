@@ -50,13 +50,13 @@ Magic: The Gathering cards categorized
 ## Island (Blue) (WIP)
 
 1. Glimpse of Freedom
-2. Nyxborn Seaguard x 2
+2. Nyxborn Seaguard x 3
 3. Sliptide Serpent x 2
 4. Shrouded Serpent x 2
-5. Chain to Memory
+5. Chain to Memory x 3
 6. Ichthyomorphosis
-7. Alirios, Enraptured
-8. Whirlwind Denial
+7. Alirios, Enraptured x 2
+8. Whirlwind Denial x 2
 9. Baki's Curse x 2
 10. Sibilant Spirit x 2
 11. Tidal Kraken
@@ -64,9 +64,19 @@ Magic: The Gathering cards categorized
 13. Naiad of Hidden Coves x 2
 14. Elite Instructor
 15. Vexing Gull
-16. Towering-Wave Mystic
+16. Towering-Wave Mystic x 2
 17. Stern Dismissal
-18. 
+18. Witness of Tomorrows
+19. Starlit Mantle
+20. Brine Giant
+21. Memory Drain
+22. Triton Waverider x 2
+23. Sweet Oblivion
+24. Sea God's Scorn
+25. Omen of the Sea
+26. Thirst for Meaning
+27. Riptide Turtle
+28. Stinging Lionfish
 
 
 ## Swamp (Black) (WIP)
