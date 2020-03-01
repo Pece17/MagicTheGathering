@@ -116,12 +116,20 @@ Magic: The Gathering cards categorized
 2. Underworld Fires
 3. Incendiary Oracle
 4. Escape Velocity
-5. Omen of the Forge
+5. Omen of the Forge x 3
 6. Satyr's Cunning
 7. Thrill of Possibility
 8. Heroes of the Revel
 9. Aspect of Manticore
-10. Flummoxed Cyclops
+10. Flummoxed Cyclops x 2
+11. Oread of Mountain's Blaze
+12. Impending Doom
+13. Arena Trickster
+14. Iroas's Blessing
+15. Wrap in Flames
+16. Careless Celebrant
+17. Fateful End
+18. 
 
 
 ## Forest (Green) (WIP)
