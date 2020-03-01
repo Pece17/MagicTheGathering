@@ -3,6 +3,7 @@
 Library of Magic: The Gathering cards and decks
 
 (F) = Foil
+
 (A) = Alternate
 
 
