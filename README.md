@@ -2,6 +2,9 @@
 
 Library of Magic: The Gathering cards and decks
 
+(F) = Foil
+(A) = Alternate
+
 
 ## Author
 
@@ -31,7 +34,7 @@ Magic: The Gathering cards categorized
 14. Daybreak Chimera
 15. Daxos, Blessed by the Sun
 16. Pious Wayfarer
-17. Captivating Unicorn
+17. Captivating Unicorn x 2
 18. Dreadful Apathy
 19. Dawn Evangel
 20. Favored of Iroas
@@ -40,6 +43,8 @@ Magic: The Gathering cards categorized
 23. Indomitable Will
 24. Omen of the Sun
 25. Revoke Existence
+26. Leonin of the Lost Pride
+27. Daxos, Blessed by the Sun (A)
 
 
 ## Island (Blue) (WIP)
