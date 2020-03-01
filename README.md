@@ -117,6 +117,11 @@ Magic: The Gathering cards categorized
 3. Incendiary Oracle
 4. Escape Velocity
 5. Omen of the Forge
+6. Satyr's Cunning
+7. Thrill of Possibility
+8. Heroes of the Revel
+9. Aspect of Manticore
+10. Flummoxed Cyclops
 
 
 ## Forest (Green) (WIP)
