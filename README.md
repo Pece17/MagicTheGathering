@@ -16,7 +16,7 @@ Pekka Hämäläinen
 Magic: The Gathering cards categorized
 
 
-## Plains (White) (WIP)
+## Plains (White)
 
 1. Triumphant Surge
 2. Rumbling Sentry x 2
@@ -48,6 +48,25 @@ Magic: The Gathering cards categorized
 
 
 ## Island (Blue) (WIP)
+
+1. Glimpse of Freedom
+2. Nyxborn Seaguard x 2
+3. Sliptide Serpent x 2
+4. Shrouded Serpent x 2
+5. Chain to Memory
+6. Ichthyomorphosis
+7. Alirios, Enraptured
+8. Whirlwind Denial
+9. Baki's Curse x 2
+10. Sibilant Spirit x 2
+11. Tidal Kraken
+12. Tolarian Serpent
+13. Naiad of Hidden Coves x 2
+14. Elite Instructor
+15. Vexing Gull
+16. Towering-Wave Mystic
+17. Stern Dismissal
+18. 
 
 
 ## Swamp (Black) (WIP)
