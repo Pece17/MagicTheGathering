@@ -143,7 +143,7 @@ Magic: The Gathering cards categorized
 27. Irreverent Revelers
 
 
-## Forest (Green) (WIP)
+## Forest (Green)
 
 1. Return to Nature x 2
 2. Loathsome Chimera x 3
@@ -175,7 +175,7 @@ Magic: The Gathering cards categorized
 28. Plummet
 
 
-### Subcategories?
+### Subcategories (WIP)
 
 
 ## Multicolor
