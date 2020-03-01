@@ -29,9 +29,9 @@ Magic: The Gathering cards categorized
 9. Transcendent Envoy
 10. Karametra's Blessing x 2
 11. Sentinel's Eyes
-12. Flicker of Fate
+12. Flicker of Fate x 2
 13. Heliod's Pilgrim x 2
-14. Daybreak Chimera
+14. Daybreak Chimera x 2
 15. Daxos, Blessed by the Sun
 16. Pious Wayfarer
 17. Captivating Unicorn x 2
