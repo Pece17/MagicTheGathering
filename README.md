@@ -114,12 +114,12 @@ Magic: The Gathering cards categorized
 
 1. Final Flare
 2. Underworld Fires
-3. Incendiary Oracle
-4. Escape Velocity
+3. Incendiary Oracle x 2
+4. Escape Velocity x 2
 5. Omen of the Forge x 3
-6. Satyr's Cunning
-7. Thrill of Possibility
-8. Heroes of the Revel
+6. Satyr's Cunning x 2
+7. Thrill of Possibility x 2
+8. Heroes of the Revel x 2
 9. Aspect of Manticore
 10. Flummoxed Cyclops x 2
 11. Oread of Mountain's Blaze
@@ -129,7 +129,12 @@ Magic: The Gathering cards categorized
 15. Wrap in Flames
 16. Careless Celebrant
 17. Fateful End
-18. 
+18. Stampede Rider
+19. Skophos Warleader x 2
+20. Hero of the Games
+21. Portent of Betrayal
+22. Infuriate
+23. 
 
 
 ## Forest (Green) (WIP)
