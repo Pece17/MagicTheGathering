@@ -85,7 +85,7 @@ Magic: The Gathering cards categorized
 1. Lampad of Death's Vigil x 2
 2. Mire's Grasp
 3. Blight-Breath Catoblepas x 2
-4. Soulreaper of Mogis
+4. Soulreaper of Mogis x 2
 5. Gray Merchant of Asphodel x 2
 6. Final Death x 2
 7. Pharika's Libation x 2
@@ -101,7 +101,7 @@ Magic: The Gathering cards categorized
 17. Scavenging Harpy
 18. Mogis's Favor
 19. Underworld Charger
-20. 
+20. Cling to Dust
 
 
 ## Mountain (Red) (WIP)
