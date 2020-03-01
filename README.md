@@ -30,13 +30,13 @@ Magic: The Gathering cards categorized
 
 ## Multicolor
 
-1. Dream Trawler (F)
-2. Haktos the Unscarred
-3. Hero of the Nyxborn x 2
-4. Polukranos, Unchained
-5. Gallia of the Endless Dance
-6. Uro, Titan of Nature's Wrath
-7. Acolyte of Affliction 
+1. ```Dream Trawler``` (F)
+2. ```Haktos the Unscarred```
+3. ```Hero of the Nyxborn``` x 2
+4. ```Polukranos, Unchained```
+5. ```Gallia of the Endless Dance```
+6. ```Uro, Titan of Nature's Wrath```
+7. ```Acolyte of Affliction```
 
 
 ## Colorless
