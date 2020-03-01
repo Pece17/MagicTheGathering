@@ -2,9 +2,11 @@
 
 Library of Magic: The Gathering cards and decks
 
+(A) = Alternate
+
 (F) = Foil
 
-(A) = Alternate
+(P) = Promotional
 
 
 ## Author
@@ -142,6 +144,13 @@ Magic: The Gathering cards categorized
 
 
 ## Forest (Green) (WIP)
+
+1. Return to Nature
+2. Loathsome Chimera
+3. Lichenthrope
+4. Gift of Strength
+5. Setessan Petitioner
+6. Arasta of the Endless Web (F) (P)
 
 
 ### Subcategories?
