@@ -58,7 +58,7 @@ Magic: The Gathering cards categorized
 7. Alirios, Enraptured x 2
 8. Whirlwind Denial x 2
 9. Baki's Curse x 2
-10. Sibilant Spirit x 2
+10. Sibilant Spirit
 11. Tidal Kraken
 12. Tolarian Serpent
 13. Naiad of Hidden Coves x 2
@@ -77,6 +77,7 @@ Magic: The Gathering cards categorized
 26. Thirst for Meaning
 27. Riptide Turtle
 28. Stinging Lionfish
+29. Sibilant Spirit (A)
 
 
 ## Swamp (Black) (WIP)
