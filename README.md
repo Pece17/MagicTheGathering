@@ -110,7 +110,7 @@ Magic: The Gathering cards categorized
 25. Rage-Scarred Berserker
 
 
-## Mountain (Red) (WIP)
+## Mountain (Red)
 
 1. Final Flare
 2. Underworld Fires x 2
