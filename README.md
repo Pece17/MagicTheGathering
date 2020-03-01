@@ -15,6 +15,19 @@ Magic: The Gathering cards categorized
 
 ## Plains (White) (WIP)
 
+1. Triumphant Surge
+2. Rumbling Sentry
+3. Archon of Falling Stars
+4. Glory Bearers
+5. Elspeth Conquers Death
+6. Aven Shrine
+7. Shatter the Sky
+8. Taranika, Akroan Veteran
+9. Transcendent Envoy
+10. Karametra's Blessing
+11. Sentinel's Eyes
+12. 
+
 
 ## Island (Blue) (WIP)
 
