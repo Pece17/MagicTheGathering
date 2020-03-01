@@ -28,7 +28,7 @@ Magic: The Gathering cards categorized
 ## Forest (Green) (WIP)
 
 
-## Multicolor (WIP)
+## Multicolor
 
 1. ```Dream Trawler``` (F)
 2. ```Haktos the Unscarred```
@@ -39,7 +39,7 @@ Magic: The Gathering cards categorized
 7. ```Acolyte of Affliction```
 
 
-## Colorless (WIP)
+## Colorless
 
 1. ```Altar of the Pantheon```
 2. ```Altar of the Pantheon``` (F)
