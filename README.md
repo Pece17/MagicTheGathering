@@ -89,19 +89,24 @@ Magic: The Gathering cards categorized
 5. Gray Merchant of Asphodel x 2
 6. Final Death x 2
 7. Pharika's Libation x 2
-8. Pharika's Spawn
+8. Pharika's Spawn x 2
 9. Discordant Piper
-10. Venomous Hierophant
+10. Venomous Hierophant x 2
 11. Omen of the Dead
 12. Treacherous Blessing
 13. Erebos, Bleak-Hearted
 14. Nightmare Shepherd
 15. Agonizing Remorse
-16. Grim Physician
+16. Grim Physician x 2
 17. Scavenging Harpy
 18. Mogis's Favor
 19. Underworld Charger
 20. Cling to Dust
+21. Temple Thief
+22. Funeral Rites x 2
+23. Underworld Dreams
+24. Aspect of Lamprey (F)
+25. Rage-Scarred Berserker
 
 
 ## Mountain (Red) (WIP)
