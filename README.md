@@ -41,37 +41,37 @@ Magic: The Gathering cards categorized
 
 ## Colorless
 
-1. Altar of the Pantheon
-2. Altar of the Pantheon (F)
-3. Thaumaturge's Familiar x 2
-4. Traveler's Amulet x 2
-5. Shadowspear
-6. Wings of Hubris x 2
-7. Soul-Guide Lantern
+1. ```Altar of the Pantheon```
+2. ```Altar of the Pantheon``` (F)
+3. ```Thaumaturge's Familiar``` x 2
+4. ```Traveler's Amulet``` x 2
+5. ```Shadowspear```
+6. ```Wings of Hubris``` x 2
+7. ```Soul-Guide Lantern```
 
 
 ## Basic Land
 
 1. ```Plains``` x 31
-2. Island x 33
-3. Swamp x 30
-4. Mountain x 30
-5. Forest x 30
+2. ```Island``` x 33
+3. ```Swamp``` x 30
+4. ```Mountain``` x 30
+5. ```Forest``` x 30
 
 
 ## Nonbasic Land
 
-1. Field of Ruin
-2. Unkown Shores
+1. ```Field of Ruin```
+2. ```Unkown Shores```
 
 
 ## Token
 
-1. Spider
-2. Human Soldier x 5
-3. Satyr x 2
-4. Reflection x 2
-5. Wolf
+1. ```Spider```
+2. ```Human Soldier``` x 5
+3. ```Satyr``` x 2
+4. ```Reflection``` x 2
+5. ```Wolf```
 
 
 # Decks
