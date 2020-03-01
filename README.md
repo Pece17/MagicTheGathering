@@ -112,8 +112,17 @@ Magic: The Gathering cards categorized
 
 ## Mountain (Red) (WIP)
 
+1. Final Flare
+2. Underworld Fires
+3. Incendiary Oracle
+4. Escape Velocity
+5. Omen of the Forge
+
 
 ## Forest (Green) (WIP)
+
+
+### Subcategories?
 
 
 ## Multicolor
