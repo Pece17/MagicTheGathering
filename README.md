@@ -13,22 +13,22 @@ Pekka Hämäläinen
 Magic: The Gathering cards categorized
 
 
-## Plains (White)
+## Plains (White) (WIP)
 
 
-## Island (Blue)
+## Island (Blue) (WIP)
 
 
-## Swamp (Black)
+## Swamp (Black) (WIP)
 
 
-## Mountain (Red)
+## Mountain (Red) (WIP)
 
 
-## Forest (Green)
+## Forest (Green) (WIP)
 
 
-## Multicolor
+## Multicolor (WIP)
 
 1. ```Dream Trawler``` (F)
 2. ```Haktos the Unscarred```
@@ -39,7 +39,7 @@ Magic: The Gathering cards categorized
 7. ```Acolyte of Affliction```
 
 
-## Colorless
+## Colorless (WIP)
 
 1. ```Altar of the Pantheon```
 2. ```Altar of the Pantheon``` (F)
@@ -59,13 +59,13 @@ Magic: The Gathering cards categorized
 5. ```Forest``` x 30
 
 
-## Nonbasic Land
+## Nonbasic Land (WIP)
 
 1. ```Field of Ruin```
 2. ```Unkown Shores```
 
 
-## Token
+## Token (WIP)
 
 1. Spider
 2. Human Soldier x 5
