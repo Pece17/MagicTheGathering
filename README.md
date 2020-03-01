@@ -148,7 +148,7 @@ Magic: The Gathering cards categorized
 1. Return to Nature
 2. Loathsome Chimera x3
 3. Lichenthrope
-4. Gift of Strength
+4. Gift of Strength x 2
 5. Setessan Petitioner
 6. Arasta of the Endless Web (F) (P)
 7. Arasta of the Endless Web
@@ -159,14 +159,20 @@ Magic: The Gathering cards categorized
 12. Overlaid Terrain
 13. Nyxborn Colossus
 14. Inspire Awe
-15. Setessan Skirmisher
+15. Setessan Skirmisher x 2
 16. Nexus Wardens
 17. Relentless Pursuit
 18. Setessan Training
 19. Chainweb Aracnir
 20. Hyrax Tower Scout
-21. Moss Viper
-22. 
+21. Moss Viper x 2
+22. Warbriar Blessing
+23. Wolfwillow Haven
+24. Mystic Repeal
+25. Omen of the Hunt
+26. Voracious Typhon
+27. Skola Grovedancer
+28. Plummet
 
 
 ### Subcategories?
