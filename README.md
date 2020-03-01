@@ -47,7 +47,7 @@ Magic: The Gathering cards categorized
 27. Daxos, Blessed by the Sun (A)
 
 
-## Island (Blue) (WIP)
+## Island (Blue)
 
 1. Glimpse of Freedom
 2. Nyxborn Seaguard x 3
@@ -81,6 +81,23 @@ Magic: The Gathering cards categorized
 
 
 ## Swamp (Black) (WIP)
+
+1. Lampad of Death's Vigil
+2. Mire's Grasp
+3. Blight-Breath Catoblepas
+4. Soulreaper of Mogis
+5. Gray Merchant of Asphodel
+6. Final Death
+7. Pharika's Libation
+8. Pharika's Spawn
+9. Discordant Piper
+10. Venomous Hierophant
+11. Omen of the Dead
+12. Treacherous Blessing
+13. Erebos, Bleak-Hearted
+14. Nightmare Shepherd
+15. Agonizing Remorse
+16. 
 
 
 ## Mountain (Red) (WIP)
