@@ -145,8 +145,8 @@ Magic: The Gathering cards categorized
 
 ## Forest (Green) (WIP)
 
-1. Return to Nature
-2. Loathsome Chimera x3
+1. Return to Nature x 2
+2. Loathsome Chimera x 3
 3. Lichenthrope
 4. Gift of Strength x 2
 5. Setessan Petitioner
