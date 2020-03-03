@@ -281,6 +281,12 @@ Magic: The Gathering decks
 10. ```The First Iroan Games```
 11. ```Vexing Gull```
 12. ```Uro, Titan of Nature's Wrath```
+13. ```Setessan Training```
+14. ```Alirios, Enraptured```
+15. ```Memory Drain```
+16. ```Riptide Turtle```
+17. ```Loathsome Chimera``` x 2
+18. ```Omen of the Sea```
 
 
 ### Trading Block (WIP)
