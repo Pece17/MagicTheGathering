@@ -269,7 +269,18 @@ Magic: The Gathering decks
 
 ## Uro The Beast (WIP)
 
-1. 
+1. ```Chain to Memory``` x 2
+2. ```Glimpse of Freedom```
+3. ```Moss Viper``` x 2
+4. ```Whirlwind Denial```
+5. ```Towering-Wave Mystic```
+6. ```Gift of Strength```
+7. ```Thirst for Meaning```
+8. ```Sweet Oblivion```
+9. ```Stern Dismissal```
+10. ```The First Iroan Games```
+11. ```Vexing Gull```
+12. ```Uro, Titan of Nature's Wrath```
 
 
 ### Trading Block (WIP)
