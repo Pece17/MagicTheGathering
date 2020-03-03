@@ -229,7 +229,21 @@ Magic: The Gathering cards categorized
 Magic: The Gathering decks
 
 
-## 
+## Punavalkoinen (WIP)
+
+1. ```The Birth of Meletis```
+2. ```Traveler's Amulet```
+3. ```Rumbling Sentry```
+4. ```Flicker of Fate```
+5. ```Haktos the Unscarred```
+6. ```Hero of the Nyxborn```
+7. ```Soul-Guide Lantern```
+8. ```Omen of the Forge``` x 2
+9. ```Skophos Warleader```
+10. ```Taranika, Akroan Veteran```
+
+```Plains``` x
+```Mountain``` x
 
 
 ## Uro The Beast (WIP)
