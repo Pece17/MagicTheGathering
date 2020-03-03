@@ -224,7 +224,9 @@ Magic: The Gathering cards categorized
 5. ```Wolf```
 
 
-## Waivers (WIP)
+## Waivers
+
+1. ```Erebos, Bleak-Hearted```
 
 
 # Decks
@@ -264,10 +266,10 @@ Magic: The Gathering decks
 28. ```Mountain``` x 10
 
 
-### Trading Block (WIP)
+### Trading Block
 
 
-## Uro The Beast (WIP)
+## Uro The Beast
 
 1. ```Chain to Memory``` x 3
 2. ```Glimpse of Freedom```
@@ -299,6 +301,6 @@ Magic: The Gathering decks
 28. ```Forest``` x 10
 
 
-### Trading Block (WIP)
+### Trading Block
 
-1. ```Wings of Hubris```
+1. ```Wings of Hubris``` > ?
