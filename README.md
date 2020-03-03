@@ -271,3 +271,5 @@ Magic: The Gathering decks
 
 
 ### Trading Block (WIP)
+
+1. ```Wings of Hubris```
