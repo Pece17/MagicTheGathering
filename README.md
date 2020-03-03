@@ -233,24 +233,29 @@ Magic: The Gathering decks
 
 1. ```The Birth of Meletis```
 2. ```Traveler's Amulet``` x 2
-3. ```Rumbling Sentry```
+3. ```Rumbling Sentry``` x 2
 4. ```Flicker of Fate``` x 2
 5. ```Haktos the Unscarred```
 6. ```Hero of the Nyxborn``` x 2
 7. ```Soul-Guide Lantern```
-8. ```Omen of the Forge``` x 2
+8. ```Omen of the Forge``` x 3
 9. ```Skophos Warleader``` x 2
 10. ```Taranika, Akroan Veteran```
 11. ```Arena Trickster```
 12. ```Flummoxed Cyclops``` x 2
 13. ```Careless Celebrant```
-14. ```Thrill of Possibility```
+14. ```Thrill of Possibility``` x 2
 15. ```Shatter the Sky```
 16. ```Sentinel's Eyes```
 17. ```Altar of the Pantheon``` (F)
 18. ```Daxos, Blessed by the Sun```
 19. ```Infuriate```
 20. ```Shadowspear```
+21. ```Aspect of Manticore``` x 2
+22. ```Daxos, Blessed by the Sun``` (A)
+23. ```Revoke Existence```
+24. ```Elspeth Conquers Death```
+25. ```Portent of Betrayal```
 
 ```Plains``` x
 ```Mountain``` x
