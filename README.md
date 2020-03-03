@@ -232,15 +232,25 @@ Magic: The Gathering decks
 ## Punavalkoinen (WIP)
 
 1. ```The Birth of Meletis```
-2. ```Traveler's Amulet```
+2. ```Traveler's Amulet``` x 2
 3. ```Rumbling Sentry```
-4. ```Flicker of Fate```
+4. ```Flicker of Fate``` x 2
 5. ```Haktos the Unscarred```
-6. ```Hero of the Nyxborn```
+6. ```Hero of the Nyxborn``` x 2
 7. ```Soul-Guide Lantern```
 8. ```Omen of the Forge``` x 2
-9. ```Skophos Warleader```
+9. ```Skophos Warleader``` x 2
 10. ```Taranika, Akroan Veteran```
+11. ```Arena Trickster```
+12. ```Flummoxed Cyclops``` x 2
+13. ```Careless Celebrant```
+14. ```Thrill of Possibility```
+15. ```Shatter the Sky```
+16. ```Sentinel's Eyes```
+17. ```Altar of the Pantheon``` (F)
+18. ```Daxos, Blessed by the Sun```
+19. ```Infuriate```
+20. ```Shadowspear```
 
 ```Plains``` x
 ```Mountain``` x
