@@ -295,6 +295,8 @@ Magic: The Gathering decks
 24. ```Voracious Typhon```
 25. ```Wings of Hubris```
 26. ```Ichthyomorphosis```
+27. ```Island``` x 14
+28. ```Forest``` x 10
 
 
 ### Trading Block (WIP)
