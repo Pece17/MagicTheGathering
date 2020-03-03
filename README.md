@@ -269,6 +269,8 @@ Magic: The Gathering decks
 
 ## Uro The Beast (WIP)
 
+1. 
+
 
 ### Trading Block (WIP)
 
