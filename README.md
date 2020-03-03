@@ -224,6 +224,9 @@ Magic: The Gathering cards categorized
 5. ```Wolf```
 
 
+## Trading Block (WIP)
+
+
 # Decks
 
 Magic: The Gathering decks
