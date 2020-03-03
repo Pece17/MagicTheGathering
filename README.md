@@ -224,7 +224,7 @@ Magic: The Gathering cards categorized
 5. ```Wolf```
 
 
-## Trading Block (WIP)
+## Waivers (WIP)
 
 
 # Decks
@@ -264,4 +264,10 @@ Magic: The Gathering decks
 28. ```Mountain``` x 10
 
 
+### Trading Block (WIP)
+
+
 ## Uro The Beast (WIP)
+
+
+### Trading Block (WIP)
