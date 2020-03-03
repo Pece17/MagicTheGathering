@@ -287,6 +287,8 @@ Magic: The Gathering decks
 16. ```Riptide Turtle```
 17. ```Loathsome Chimera``` x 2
 18. ```Omen of the Sea```
+19. ```Relentless Pursuit```
+20. 
 
 
 ### Trading Block (WIP)
