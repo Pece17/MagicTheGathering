@@ -234,7 +234,7 @@ Magic: The Gathering cards categorized
 Magic: The Gathering decks
 
 
-## Punavalkoinen (WIP)
+## Plateau Boys
 
 1. ```The Birth of Meletis```
 2. ```Traveler's Amulet``` x 2
