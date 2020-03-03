@@ -234,7 +234,7 @@ Magic: The Gathering cards categorized
 Magic: The Gathering decks
 
 
-## Plateau Beasts
+## Plateau Gang
 
 1. ```The Birth of Meletis```
 2. ```Traveler's Amulet``` x 2
@@ -269,7 +269,7 @@ Magic: The Gathering decks
 ### Trading Block
 
 
-## Uro The Monster
+## Uro The Beast
 
 1. ```Chain to Memory``` x 3
 2. ```Glimpse of Freedom```
