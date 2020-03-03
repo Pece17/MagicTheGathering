@@ -273,7 +273,7 @@ Magic: The Gathering decks
 2. ```Glimpse of Freedom```
 3. ```Moss Viper``` x 2
 4. ```Whirlwind Denial``` x 2
-5. ```Towering-Wave Mystic```
+5. ```Towering-Wave Mystic``` x 2
 6. ```Gift of Strength``` x 2
 7. ```Thirst for Meaning```
 8. ```Sweet Oblivion```
