@@ -259,9 +259,9 @@ Magic: The Gathering decks
 23. ```Revoke Existence```
 24. ```Elspeth Conquers Death```
 25. ```Portent of Betrayal```
-
-```Plains``` x
-```Mountain``` x
+26. ```Altar of the Pantheon```
+27. ```Plains``` x 14
+28. ```Mountain``` x 10
 
 
 ## Uro The Beast (WIP)
