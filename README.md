@@ -212,7 +212,7 @@ Magic: The Gathering cards categorized
 ## Nonbasic Land
 
 1. ```Field of Ruin```
-2. ```Unkown Shores```
+2. ```Unknown Shores```
 
 
 ## Token
@@ -269,12 +269,12 @@ Magic: The Gathering decks
 
 ## Uro The Beast (WIP)
 
-1. ```Chain to Memory``` x 2
+1. ```Chain to Memory``` x 3
 2. ```Glimpse of Freedom```
 3. ```Moss Viper``` x 2
-4. ```Whirlwind Denial```
+4. ```Whirlwind Denial``` x 2
 5. ```Towering-Wave Mystic```
-6. ```Gift of Strength```
+6. ```Gift of Strength``` x 2
 7. ```Thirst for Meaning```
 8. ```Sweet Oblivion```
 9. ```Stern Dismissal```
@@ -282,13 +282,19 @@ Magic: The Gathering decks
 11. ```Vexing Gull```
 12. ```Uro, Titan of Nature's Wrath```
 13. ```Setessan Training```
-14. ```Alirios, Enraptured```
+14. ```Alirios, Enraptured``` x 2
 15. ```Memory Drain```
 16. ```Riptide Turtle```
-17. ```Loathsome Chimera``` x 2
+17. ```Loathsome Chimera``` x 3
 18. ```Omen of the Sea```
 19. ```Relentless Pursuit```
-20. 
+20. ```Unknown Shores```
+21. ```Stinging Lionfish```
+22. ```Omen of the Hunt```
+23. ```Shrouded Serpent``` x 2
+24. ```Voracious Typhon```
+25. ```Wings of Hubris```
+26. ```Ichthyomorphosis```
 
 
 ### Trading Block (WIP)
