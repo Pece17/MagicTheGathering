@@ -202,9 +202,9 @@ Magic: The Gathering cards categorized
 
 ## Basic Land
 
-1. ```Plains``` x 31
-2. ```Island``` x 33
-3. ```Swamp``` x 30
+1. ```Plains``` x 32
+2. ```Island``` x 34
+3. ```Swamp``` x 31
 4. ```Mountain``` x 30
 5. ```Forest``` x 30
 
