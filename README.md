@@ -187,6 +187,12 @@ Magic: The Gathering cards categorized
 5. ```Gallia of the Endless Dance```
 6. ```Uro, Titan of Nature's Wrath```
 7. ```Acolyte of Affliction```
+8. Grumgully, the Generous
+9. Mortify
+10. Depose // Deploy
+11. Aeromunculus
+12. Pledge of Unity
+13. Empyrean Eagle
 
 
 ## Colorless
