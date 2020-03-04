@@ -225,6 +225,10 @@ Magic: The Gathering cards categorized
 3. ```Satyr``` x 2
 4. ```Reflection``` x 2
 5. ```Wolf```
+6. Giant
+7. Spirit
+8. Zombie Army
+9. Ajani's Pridemate
 
 
 ## Waivers
