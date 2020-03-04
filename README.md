@@ -48,6 +48,17 @@ Magic: The Gathering cards categorized
 25. ```Revoke Existence```
 26. ```Leonin of the Lost Pride```
 27. ```Daxos, Blessed by the Sun``` (A)
+28. Silverflame Squire
+29. Outflank
+30. Fortifying Provisions
+31. All That Glitters
+32. Watchful Giant
+33. Prowling Caracal
+34. Gideon's Triumph
+35. Defiant Strike
+36. Dawning Angel
+37. Raise the Alarm
+38. Griffin Protector
 
 
 ## Island (Blue)
