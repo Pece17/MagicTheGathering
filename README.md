@@ -213,6 +213,9 @@ Magic: The Gathering cards categorized
 
 1. ```Field of Ruin```
 2. ```Unknown Shores```
+3. Emergence Zone
+4. Gruul Guildgate
+5. Blood Crypt
 
 
 ## Token
