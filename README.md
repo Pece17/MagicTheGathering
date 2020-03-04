@@ -81,6 +81,13 @@ Magic: The Gathering cards categorized
 27. ```Riptide Turtle```
 28. ```Stinging Lionfish```
 29. ```Sibilant Spirit``` (A)
+30. Moonlit Scavengers
+31. Queen of Ice
+32. Quench
+33. Kiora's Dambreaker
+34. Tamiyo's Epiphany
+35. Metropolis Sprite
+36. Captivating Gyre
 
 
 ## Swamp (Black)
