@@ -141,6 +141,15 @@ Magic: The Gathering cards categorized
 25. ```Orgg```
 26. ```Amok```
 27. ```Irreverent Revelers```
+28. Blow Your House Down
+29. Scorching Dragonfire
+30. Cavalcade of Calamity
+31. Skewer the Critics
+32. Chandra, Fire Artisan
+33. Ahn-Crop Invader
+34. Blindblast
+35. Chainwhip Cyclops
+36. Destructive Digger
 
 
 ## Forest (Green)
