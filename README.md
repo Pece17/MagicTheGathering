@@ -198,6 +198,8 @@ Magic: The Gathering cards categorized
 5. ```Shadowspear```
 6. ```Wings of Hubris``` x 2
 7. ```Soul-Guide Lantern```
+8. Henge Walker
+9. Gruul Locket
 
 
 ## Basic Land
