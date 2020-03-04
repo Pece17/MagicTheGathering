@@ -110,6 +110,15 @@ Magic: The Gathering cards categorized
 23. ```Underworld Dreams```
 24. ```Aspect of Lamprey``` (F)
 25. ```Rage-Scarred Berserker```
+26. Lost Legion
+27. Carrion Imp
+28. Thirsting Shade
+29. Davriel's Shadowfugue
+30. Lazotep Reaver
+31. Cavalier of Night
+32. Bladebrand
+33. Boneclad Necromancer
+34. Undead Servant
 
 
 ## Mountain (Red)
