@@ -329,6 +329,8 @@ Magic: The Gathering decks
 
 ### Trading Block
 
+1. Chandra, Fire Artisan
+
 
 ## Uro the Beast
 
