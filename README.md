@@ -365,3 +365,12 @@ Magic: The Gathering decks
 ### Trading Block
 
 1. ```Wings of Hubris``` > ?
+2. ? > Wrecking Beast
+3. ? > Vivien's Grizzly
+4. ? > Steady Aim
+5. ? > Sagittars' Volley
+6. ? > Once Upon a Time
+7. ? > Mammoth Spider
+8. ? > Loaming Shaman
+9. ? > Giant Opportunity
+10. ? > Garenbrig Paladin
