@@ -173,6 +173,16 @@ Magic: The Gathering cards categorized
 26. ```Voracious Typhon```
 27. ```Skola Grovedancer```
 28. ```Plummet```
+29. Garenbrig Paladin
+30. Giant Opportunity
+31. Once Upon a Time
+32. Wrecking Beast
+33. Sagittars' Volley
+34. Steady Aim
+35. Vivien's Grizzly
+36. Centaur Courser
+37. Mammoth Spider
+38. Loaming Shaman
 
 
 ### Subcategories (WIP)
