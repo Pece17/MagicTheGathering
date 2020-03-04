@@ -330,7 +330,7 @@ Magic: The Gathering decks
 ### Trading Block
 
 
-## Uro The Beast
+## Uro the Beast
 
 1. ```Chain to Memory``` x 3
 2. ```Glimpse of Freedom```
