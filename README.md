@@ -73,7 +73,7 @@ Magic: The Gathering cards categorized
 8. ```Whirlwind Denial``` x 2
 9. ```Baki's Curse``` x 2
 10. ```Sibilant Spirit```
-11. ```Tidal Kraken```
+11. ```Tidal Kraken``` (A)
 12. ```Tolarian Serpent```
 13. ```Naiad of Hidden Coves``` x 2
 14. ```Elite Instructor```
