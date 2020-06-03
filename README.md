@@ -148,6 +148,12 @@ Magic: The Gathering cards categorized
 32. Bladebrand
 33. Boneclad Necromancer
 34. Undead Servant
+35. Grimdancer
+36. Easy Prey
+37. Boot Nipper
+38. Dead Weight
+39. Blood Curdle
+40. Whisper Squad
 
 
 ## Mountain (Red)
