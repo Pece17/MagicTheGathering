@@ -298,6 +298,7 @@ Magic: The Gathering cards categorized
 3. Emergence Zone
 4. Gruul Guildgate
 5. Blood Crypt
+6. Wind-Scarred Crag
 
 
 ## Token
