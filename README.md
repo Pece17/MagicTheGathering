@@ -59,6 +59,11 @@ Magic: The Gathering cards categorized
 36. Dawning Angel
 37. Raise the Alarm
 38. Griffin Protector
+39. Snare Tactician
+40. Checkpoint Officer
+41. Majestic Auricorn
+42. Flourishing Fox
+43. 
 
 
 ## Island (Blue)
