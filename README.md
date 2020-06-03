@@ -288,7 +288,7 @@ Magic: The Gathering cards categorized
 2. ```Island``` x 34
 3. ```Swamp``` x 31
 4. ```Mountain``` x 30
-5. ```Forest``` x 30
+5. ```Forest``` x 31
 
 
 ## Nonbasic Land
