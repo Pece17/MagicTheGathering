@@ -239,6 +239,9 @@ Magic: The Gathering cards categorized
 36. Centaur Courser
 37. Mammoth Spider
 38. Loaming Shaman
+39. Ram Through
+40. Humble Naturalist
+41. Bristling Boar
 
 
 ### Subcategories (WIP)
