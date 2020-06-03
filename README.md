@@ -279,6 +279,7 @@ Magic: The Gathering cards categorized
 7. ```Soul-Guide Lantern```
 8. Henge Walker
 9. Gruul Locket
+10. Zagoth Crystal
 
 
 ## Basic Land
