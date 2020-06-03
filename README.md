@@ -262,6 +262,10 @@ Magic: The Gathering cards categorized
 11. Aeromunculus
 12. Pledge of Unity
 13. Empyrean Eagle
+14. Death's Oasis (F)
+15. Back for More
+16. Fiend Artisan
+17. Zirda, the Dawnwaker
 
 
 ## Colorless
