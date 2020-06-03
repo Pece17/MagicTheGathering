@@ -105,6 +105,11 @@ Magic: The Gathering cards categorized
 34. Tamiyo's Epiphany
 35. Metropolis Sprite
 36. Captivating Gyre
+37. Frost Lynx
+38. Facet Reader
+39. Crystacean
+40. Convolute
+41. Gust of Wind
 
 
 ## Swamp (Black)
