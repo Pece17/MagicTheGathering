@@ -194,6 +194,9 @@ Magic: The Gathering cards categorized
 34. Blindblast
 35. Chainwhip Cyclops
 36. Destructive Digger
+37. Drannith Stinger
+38. Prickly Marmoset
+39. Raking Claws
 
 
 ## Forest (Green)
