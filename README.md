@@ -63,7 +63,8 @@ Magic: The Gathering cards categorized
 40. Checkpoint Officer
 41. Majestic Auricorn
 42. Flourishing Fox
-43. 
+43. Vulpikeet (A)
+44. Drannith Healer
 
 
 ## Island (Blue)
