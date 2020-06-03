@@ -304,7 +304,7 @@ Magic: The Gathering cards categorized
 ## Token
 
 1. ```Spider```
-2. ```Human Soldier``` x 5
+2. ```Human Soldier``` x 6
 3. ```Satyr``` x 2
 4. ```Reflection``` x 2
 5. ```Wolf```
