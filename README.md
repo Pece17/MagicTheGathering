@@ -312,6 +312,7 @@ Magic: The Gathering cards categorized
 7. Spirit
 8. Zombie Army
 9. Ajani's Pridemate
+10. Dinosaur
 
 
 ## Waivers
