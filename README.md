@@ -4,16 +4,6 @@ Library of Magic: The Gathering cards and decks
 
 (A) = Alternate (including Showcase cards)
 
-
-
-
-
-
-
-
-
-
-
 (F) = Foil
 
 (P) = Promotional
