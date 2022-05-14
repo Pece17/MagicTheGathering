@@ -14,12 +14,12 @@ Library of Magic: The Gathering cards and decks
 Pekka Hämäläinen
 
 
-# Cards
+## Cards
 
 Magic: The Gathering cards categorized
 
 
-## Plains (White)
+### Plains (White)
 
 1. ```Triumphant Surge```
 2. ```Rumbling Sentry``` x 2
@@ -67,7 +67,7 @@ Magic: The Gathering cards categorized
 44. Drannith Healer
 
 
-## Island (Blue)
+### Island (Blue)
 
 1. ```Glimpse of Freedom```
 2. ```Nyxborn Seaguard``` x 3
@@ -112,7 +112,7 @@ Magic: The Gathering cards categorized
 41. Gust of Wind
 
 
-## Swamp (Black)
+### Swamp (Black)
 
 1. ```Lampad of Death's Vigil``` x 2
 2. ```Mire's Grasp```
@@ -156,7 +156,7 @@ Magic: The Gathering cards categorized
 40. Whisper Squad
 
 
-## Mountain (Red)
+### Mountain (Red)
 
 1. ```Final Flare```
 2. ```Underworld Fires``` x 2
@@ -199,7 +199,7 @@ Magic: The Gathering cards categorized
 39. Raking Claws
 
 
-## Forest (Green)
+### Forest (Green)
 
 1. ```Return to Nature``` x 2
 2. ```Loathsome Chimera``` x 3
@@ -244,10 +244,10 @@ Magic: The Gathering cards categorized
 41. Bristling Boar
 
 
-### Subcategories (WIP)
+#### Subcategories (WIP)
 
 
-## Multicolor
+### Multicolor
 
 1. ```Dream Trawler``` (F)
 2. ```Haktos the Unscarred```
@@ -268,7 +268,7 @@ Magic: The Gathering cards categorized
 17. Zirda, the Dawnwaker
 
 
-## Colorless
+### Colorless
 
 1. ```Altar of the Pantheon```
 2. ```Altar of the Pantheon``` (F)
@@ -282,7 +282,7 @@ Magic: The Gathering cards categorized
 10. Zagoth Crystal
 
 
-## Basic Land
+### Basic Land
 
 1. ```Plains``` x 32
 2. ```Island``` x 34
@@ -291,7 +291,7 @@ Magic: The Gathering cards categorized
 5. ```Forest``` x 31
 
 
-## Nonbasic Land
+### Nonbasic Land
 
 1. ```Field of Ruin```
 2. ```Unknown Shores```
@@ -301,7 +301,7 @@ Magic: The Gathering cards categorized
 6. Wind-Scarred Crag
 
 
-## Token
+### Token
 
 1. ```Spider```
 2. ```Human Soldier``` x 6
@@ -315,17 +315,17 @@ Magic: The Gathering cards categorized
 10. Dinosaur
 
 
-## Waivers
+### Waivers
 
 1. ```Erebos, Bleak-Hearted```
 
 
-# Decks
+## Decks
 
 Magic: The Gathering decks
 
 
-## Plateau Gang
+### Plateau Gang
 
 1. ```The Birth of Meletis```
 2. ```Traveler's Amulet``` x 2
@@ -357,12 +357,12 @@ Magic: The Gathering decks
 28. ```Mountain``` x 10
 
 
-### Trading Block
+#### Trading Block
 
 1. Chandra, Fire Artisan
 
 
-## Uro the Beast
+### Uro the Beast
 
 1. ```Chain to Memory``` x 3
 2. ```Glimpse of Freedom```
@@ -394,7 +394,7 @@ Magic: The Gathering decks
 28. ```Forest``` x 10
 
 
-### Trading Block
+#### Trading Block
 
 1. ```Wings of Hubris``` > ?
 2. ? > Wrecking Beast
