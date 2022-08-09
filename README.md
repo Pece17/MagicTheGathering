@@ -1,6 +1,6 @@
 # Magic: The Gathering
 
-Library of Magic: The Gathering cards and decks
+Library of Magic: The Gathering cards and decks.
 
 (A) = Alternate (including Showcase cards)
 
@@ -16,7 +16,7 @@ Pekka Hämäläinen
 
 ## Cards
 
-Magic: The Gathering cards categorized
+Magic: The Gathering cards categorized.
 
 
 ### Plains (White)
@@ -322,7 +322,7 @@ Magic: The Gathering cards categorized
 
 ## Decks
 
-Magic: The Gathering decks
+Magic: The Gathering decks.
 
 
 ### Plateau Gang
