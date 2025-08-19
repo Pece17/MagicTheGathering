@@ -1,8 +1,10 @@
 # Magic: The Gathering
 
-Library of Magic: The Gathering cards and decks.
+My library of Magic: The Gathering cards and decks.
 
-(A) = Alternate (including Showcase cards)
+(A) = Alternate ??
+
+(S) = Showcase
 
 (F) = Foil
 
