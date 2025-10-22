@@ -1,14 +1,11 @@
 # Magic: The Gathering
 
-My library of Magic: The Gathering cards and decks.
+My library of **Magic: The Gathering** cards and decks.
 
-(A) = Alternate ??
-
-(S) = Showcase
-
-(F) = Foil
-
-(P) = Promotional
+- (A) = Alternate ??
+- (S) = Showcase
+- (F) = Foil
+- (P) = Promotional
 
 
 ## Author
@@ -18,7 +15,7 @@ Pekka Hämäläinen
 
 ## Cards
 
-Magic: The Gathering cards categorized.
+**Magic: The Gathering** cards categorized.
 
 
 ### Plains (White)
@@ -324,7 +321,7 @@ Magic: The Gathering cards categorized.
 
 ## Decks
 
-Magic: The Gathering decks.
+**Magic: The Gathering** decks.
 
 
 ### Plateau Gang
