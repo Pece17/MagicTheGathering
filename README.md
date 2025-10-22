@@ -15,7 +15,7 @@ Pekka Hämäläinen
 
 ## Cards
 
-**Magic: The Gathering** cards categorized.
+My **Magic: The Gathering** cards categorized.
 
 
 ### Plains (White)
@@ -321,7 +321,7 @@ Pekka Hämäläinen
 
 ## Decks
 
-**Magic: The Gathering** decks.
+My **Magic: The Gathering** decks.
 
 
 ### Plateau Gang
