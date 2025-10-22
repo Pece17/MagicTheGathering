@@ -1,6 +1,6 @@
 # Magic: The Gathering
 
-My library of **Magic: The Gathering** cards and decks.
+My index of **Magic: The Gathering** cards and decks.
 
 - (A) = Alternate ??
 - (S) = Showcase
@@ -15,7 +15,7 @@ Pekka Hämäläinen
 
 ## Cards
 
-My **Magic: The Gathering** cards categorized.
+My **Magic: The Gathering** cards categorized:
 
 
 ### Plains (White)
@@ -321,7 +321,7 @@ My **Magic: The Gathering** cards categorized.
 
 ## Decks
 
-My **Magic: The Gathering** decks.
+My **Magic: The Gathering** decks:
 
 
 ### Plateau Gang
